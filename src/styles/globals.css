@@ -22,7 +22,8 @@ body {
 }
 
 body {
-  background-color: var(--background)
+  background-color: var(--background);
+  color:#fff;
 }
 
 a {
